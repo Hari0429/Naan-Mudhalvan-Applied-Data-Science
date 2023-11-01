@@ -91,7 +91,7 @@ Hurray!! You have succesfully installed python and its dependencies!!!
 
 Clone this repo by typing
 
-	git clone https://github.com/rubankumard/NM_Applied_Data_Science
+	git clone https://github.com/Pattuhariharaan/NM_Applied_Data_Science
 
  Run the predictor python file by typing the following commands in terminal
 
